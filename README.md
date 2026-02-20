@@ -75,4 +75,4 @@ Any evergreen browser. No polyfills required.
 
 ## License
 
-MIT
+Apache License 2.0
